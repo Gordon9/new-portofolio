@@ -16,6 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <h1>test!!!!!</h1>
+        <h2>it works!!!!</h2>
       </main>
 
       <Footer />
