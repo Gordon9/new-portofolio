@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <h1>can you hear me?</h1>
+        <h2>miss you, root!</h2>
       </main>
     </div>
   );
